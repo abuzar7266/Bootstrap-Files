@@ -1,0 +1,16 @@
+$header-background: blue;
+$form-background: #b38eff;
+$cross-color:floralwhite;
+$modal-body-text:black;
+.modal-header {
+    background: $header-background;
+    color: $cross-color;
+    .close {
+        color: $cross-color;
+    }
+}
+
+.modal-body {
+    background: $form-background;
+    color: $modal-body-text;
+}
