@@ -1,7 +1,7 @@
 {
     "name": "1st_assignment",
     "version": "1.0.0",
-    "description": "assignment  by abuzar",
+    "description": "assignment by abuzar",
     "main": "index.html",
     "scripts": {
         "start": "npm run lite",
